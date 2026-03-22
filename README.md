@@ -51,3 +51,6 @@ Users should prepare the corresponding input datasets locally in compatible CSV 
 This repository is intended to provide the core code and workflow used in the study.
 
 Depending on the local environment and dataset preparation, users may need to adapt input file paths and file names.
+## Code Availability
+
+This repository provides the implementation used in the study and supports reproducibility through accessible scripts and example usage.
